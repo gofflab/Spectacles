@@ -40,7 +40,8 @@ INSTALLED_APPS = (
     'filer',
     'mptt',
     'easy_thumbnails',
-    'bootstrap_toolkit',
+    'bootstrap3',
+    #'bootstrap_toolkit',
 )
 
 MIDDLEWARE_CLASSES = (
